@@ -48,10 +48,18 @@ const App = () => {
 
 
 ## Screenshots
-(./images/date1.png)
+![First-Code](images/reactdate360-1.png)![First-Image](images/date1.png)
+![Second-Code](images/reactdate360-2.png)![Second-Image](images/date2.png)
+![Third-Code](images/reactdate360-3.png)![Third-Image](images/date3.png)
 
+## Target CSS using Classname
+
+![Class](images/reactdate360.png)![ClassImage](images/date4.png)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/).
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
