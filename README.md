@@ -40,15 +40,11 @@ const App = () => {
 - Flexible Styling: Apply your own styles and classes to the date picker.
 - Alignment Options: Customize the alignment of the date picker title.
 - Weekday Labels: Modify weekday labels to fit your preferences.
-- 
-- Flexible Styling: Apply your own styles and classes to the date picker.
-- Alignment Options: Customize the alignment of the date picker title.
-- Weekday Labels: Modify weekday labels to fit your preferences.
 - Date Format: Choose your own date separator.
 
 
 ## Screenshots
-![First-Code](images/reactdate360-1.png)![First-Image](images/date1.png)
+![First-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-1.png?raw=true)![First-Image](images/date1.png)
 ![Second-Code](images/reactdate360-2.png)![Second-Image](images/date2.png)
 ![Third-Code](images/reactdate360-3.png)![Third-Image](images/date3.png)
 
