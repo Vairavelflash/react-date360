@@ -1,5 +1,3 @@
-import React from "react";
-
 type ChangeYear = {
   changeYear: (currentYear: number, type: string) => void;
   year: number;

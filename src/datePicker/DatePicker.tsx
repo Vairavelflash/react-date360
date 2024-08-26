@@ -1,4 +1,4 @@
-import React, {
+import  {
   Fragment,
   useCallback,
   useEffect,
@@ -26,8 +26,8 @@ type MyDatePickerProps = {
   className?: string;
   value?: string;
   onChange: any;
-  leftIcon?: React.ReactElement;
-  rightIcon?: React.ReactElement;
+  leftIcon?: any;
+  rightIcon?: any;
   weekLabel?: string[];
   dateSplit?: string;
   titleAlign?: "left" | "right" | "center";
@@ -294,6 +294,7 @@ export const DatePicker = ({
       setYear(currentYear - 1);
     }
   };
+
   return (
     <div className={`DateRangePicker  ${className}`} ref={datePickerRef}>
       <div
@@ -329,12 +330,12 @@ export const DatePicker = ({
             )}
 
             <div className="flex items-center h-7 gap-1">
-              <IconDiv
-                className=" h-7 w-7 hover:bg-Gray-400"
+              <div
+                className=" h-7 w-7 flex items-center justify-center"
                 onClick={() => adjustMonth(-1)}
               >
-                {leftIcon}
-              </IconDiv>
+               {leftIcon}
+              </div>
               {titleAlign == "center" && (
                 <div className="mdpch-container justify-center Text-12 text-Gray-1100 gap-1">
                   <p>{getMonthStr(month)}</p>
@@ -350,12 +351,12 @@ export const DatePicker = ({
                   </div>
                 </div>
               )}
-              <IconDiv
-                className=" h-7 w-7 hover:bg-Gray-400"
+              <div
+                className=" h-7 w-7 flex items-center justify-center"
                 onClick={() => adjustMonth(1)}
               >
                 {rightIcon}
-              </IconDiv>
+              </div>
             </div>
             {titleAlign == "right" && (
               <div className="mdpch-container Text-12 text-Gray-1100 gap-1">
@@ -380,14 +381,3 @@ export const DatePicker = ({
     </div>
   );
 };
-
-
-const IconDiv = React.forwardRef<
-  HTMLDivElement,
-  React.HTMLAttributes<HTMLDivElement>
->(({ className = "" }, ref) => (
-  <div
-    ref={ref}
-    className={`min-w-4 min-h-4 flex items-center justify-center ${className}`}
-  />
-));
