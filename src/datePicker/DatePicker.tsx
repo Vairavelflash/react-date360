@@ -56,7 +56,7 @@ const monthMap = [
   "December",
 ];
 
-const DatePicker = ({
+export const DatePicker = ({
   className = "",
   value = "",
   onChange,
@@ -381,7 +381,6 @@ const DatePicker = ({
   );
 };
 
-export default DatePicker;
 
 const IconDiv = React.forwardRef<
   HTMLDivElement,

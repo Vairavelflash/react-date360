@@ -1,4 +1,4 @@
 import "./global.css";
-import DatePicker from "./datePicker/DatePicker";
+import {DatePicker} from "./datePicker/DatePicker";
 
 export { DatePicker };
