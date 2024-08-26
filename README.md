@@ -44,13 +44,13 @@ const App = () => {
 
 
 ## Screenshots
-![First-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-1.png?raw=true)![First-Image](images/date1.png)
-![Second-Code](images/reactdate360-2.png)![Second-Image](images/date2.png)
-![Third-Code](images/reactdate360-3.png)![Third-Image](images/date3.png)
+![First-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-1.png?raw=true)![First-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date1.png?raw=true)
+![Second-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-2.png?raw=true)![Second-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date2.png?raw=true)
+![Third-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-3.png?raw=true)![Third-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date3.png?raw=true)
 
 ## Target CSS using Classname
 
-![Class](images/reactdate360.png)![ClassImage](images/date4.png)
+![Class](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360.png?raw=true)![ClassImage](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date4.png?raw=true)
 
 ## License
 
