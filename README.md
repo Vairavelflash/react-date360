@@ -47,6 +47,8 @@ const App = () => {
 - Date Format: Choose your own date separator.
 
 
+## Screenshots
+(./images/date1.png)
 
 
 ## License
