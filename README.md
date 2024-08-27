@@ -50,7 +50,7 @@ const App = () => {
 
 ## Target CSS using Classname
 
-![Class](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360.png?raw=true)![ClassImage](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date4.png?raw=true)
+![Class](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360.png?raw=true)![ClassImage](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date4.png?raw=true)
 
 ## License
 
