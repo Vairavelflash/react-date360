@@ -1,6 +1,6 @@
 {
   "name": "reactdate360",
-  "version": "0.0.7",
+  "version": "0.0.2",
   "description": "reactdate360 is a flexible and customizable date picker component for React. It allows you to fully modify icons, styles, and alignment to fit your needs.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

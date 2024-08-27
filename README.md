@@ -44,9 +44,9 @@ const App = () => {
 
 
 ## Screenshots
-![First-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-1.png?raw=true)![First-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date1.png?raw=true)
-![Second-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-2.png?raw=true)![Second-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date2.png?raw=true)
-![Third-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-3.png?raw=true)![Third-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date3.png?raw=true)
+![First-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-1.png?raw=true)![First-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date1.png?raw=true)
+![Second-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-2.png?raw=true)![Second-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date2.png?raw=true)
+![Third-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-3.png?raw=true)![Third-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date3.png?raw=true)
 
 ## Target CSS using Classname
 

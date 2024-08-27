@@ -1,4 +1,4 @@
-import  {
+import {
   Fragment,
   useCallback,
   useEffect,
@@ -8,12 +8,6 @@ import  {
 import "./datePicker.css";
 import ChangeYear from "./ChangeYear";
 import { LeftIcon, RightIcon } from "./Icon";
-
-// const oneDay = 60 * 60 * 24 * 1000;
-// const todayTimestamp =
-//   Date.now() -
-//   (Date.now() % oneDay) +
-//   new Date().getTimezoneOffset() * 1000 * 60;
 
 interface dateObject {
   date: number;
@@ -381,3 +375,5 @@ export const DatePicker = ({
     </div>
   );
 };
+
+DatePicker.displayName = "DatePicker";
