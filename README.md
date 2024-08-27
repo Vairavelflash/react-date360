@@ -1,21 +1,21 @@
 
-# react-date360
+# reactdate360
 
-react-date360 is a flexible and customizable date picker component for React. Unlike other date picker components in frameworks like Material-UI, react-date360 allows you to fully modify icons, styles, and alignment to fit your needs.
+reactdate360 is a flexible and customizable date picker component for React. Unlike other date picker components, reactdate360 allows you to fully modify icons, styles, and alignment to fit your needs.
 
 ## Installation
 Install the package via npm:
 ```bash
-npm install react-date360
+npm install reactdate360
 
 ```
 ## Usage
-Here's a basic example of how to use react-date360:
+Here's a basic example of how to use reactdate360:
 
 ```bash
 import React, { useState } from "react";
-import DatePicker from "react-date360";
-import "react-date360/dist/index.css"
+import DatePicker from "reactdate360";
+import "reactdate360/dist/index.css"
 
 const App = () => {
   const [formValues, setFormValues] = useState({ date: null });
@@ -44,13 +44,13 @@ const App = () => {
 
 
 ## Screenshots
-![First-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-1.png?raw=true)![First-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date1.png?raw=true)
-![Second-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-2.png?raw=true)![Second-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date2.png?raw=true)
-![Third-Code](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360-3.png?raw=true)![Third-Image](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date3.png?raw=true)
+![First-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-1.png?raw=true)![First-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date1.png?raw=true)
+![Second-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-2.png?raw=true)![Second-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date2.png?raw=true)
+![Third-Code](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360-3.png?raw=true)![Third-Image](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date3.png?raw=true)
 
 ## Target CSS using Classname
 
-![Class](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/reactdate360.png?raw=true)![ClassImage](https://raw.githubusercontent.com/Vairavelflash/react-date360/main/images/date4.png?raw=true)
+![Class](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/reactdate360.png?raw=true)![ClassImage](https://raw.githubusercontent.com/Vairavelflash/reactdate360/main/images/date4.png?raw=true)
 
 ## License
 
